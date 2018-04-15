@@ -63,10 +63,11 @@ section#principal,aside{
 article{
 	background: #E8E8E8;
 	border-radius: 0.5em;
-	min-height: 360px;
+	min-height: 400px;
 	padding: 0.25em;
 	margin: 0.5em auto;
 	color: #666;
+
 }
 
 iframe{
@@ -81,8 +82,10 @@ iframe{
 aside{
 	background: #004669;
 	width: 30%;
+	height: 60%;
 	font-size: 1em;
 	color: #ffffff;
+
 }
 
 h2{
@@ -215,8 +218,8 @@ header ul li.headerlogo a {
 }
 
 p {
-  font: 22pt sans-serif;
-  margin: 20px 20px 0px 20px;
+  font-family: Bauhaus_Demi; 
+  margin: 0px 0px 0px 0px;
 }
 
 /* Estilo de la sopa de letras */
@@ -326,4 +329,87 @@ button::-moz-focus-inner {
 
 	font-size: 120%;
   	margin: 0 20px;
+}
+
+#pregunta1{
+
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
+}
+#pregunta2{
+	
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
+}
+
+#pregunta3{
+
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
+}
+
+#pregunta4{
+	
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
+}
+
+#Henry{
+
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
+}
+
+#Jhon{
+
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
+}
+
+#Julian{
+
+	background: #005883;
+	color: #FFFFFF;
+	border:solid;
+	border-radius: 0.5em;
+	min-height: 100px;
+	padding: 0.25em;
+	margin: 0.5em auto;
+	width: 95%;
 }
